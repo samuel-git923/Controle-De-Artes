@@ -1,0 +1,8 @@
+C:\Users\Caetano\source\repos\ControleDeArtes\ControleDeArtes\bin\Debug\ControleDeArtes.exe.config
+C:\Users\Caetano\source\repos\ControleDeArtes\ControleDeArtes\bin\Debug\ControleDeArtes.exe
+C:\Users\Caetano\source\repos\ControleDeArtes\ControleDeArtes\bin\Debug\ControleDeArtes.pdb
+C:\Users\Caetano\source\repos\ControleDeArtes\ControleDeArtes\obj\Debug\ControleDeArtes.csproj.AssemblyReference.cache
+C:\Users\Caetano\source\repos\ControleDeArtes\ControleDeArtes\obj\Debug\ControleDeArtes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Caetano\source\repos\ControleDeArtes\ControleDeArtes\obj\Debug\ControleDeArtes.csproj.CoreCompileInputs.cache
+C:\Users\Caetano\source\repos\ControleDeArtes\ControleDeArtes\obj\Debug\ControleDeArtes.exe
+C:\Users\Caetano\source\repos\ControleDeArtes\ControleDeArtes\obj\Debug\ControleDeArtes.pdb
